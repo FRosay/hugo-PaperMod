@@ -23,6 +23,7 @@
     margin: 14px 0;
     font-size: 16px;
     -webkit-line-clamp: 3;
+    overflow: visible;
 }
 
 .first-entry .entry-footer {
@@ -31,6 +32,7 @@
 
 .home-info .entry-content {
     -webkit-line-clamp: unset;
+    overflow: visible;
 }
 
 .post-entry {

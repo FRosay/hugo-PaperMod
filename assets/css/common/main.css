@@ -64,3 +64,7 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
+
+span.begin-task-list + ul {
+    list-style: none;
+}
